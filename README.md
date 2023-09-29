@@ -37,7 +37,7 @@ sudo docker run hello-world
   2b.0) Set up git SSH on the VM
   `ssh-keygen -t ed25519 -C "youremail@gmail.com"`  (Press enter for all 3 questions) 
 
-  Your public key is located in cat /home/<name>/.ssh/id_ed25519.pub (Copy contents of this file on to clipboard)
+  Your public key is located in `cat /home/<name>/.ssh/id_ed25519.pub` (Copy contents of this file on to clipboard)
   Go to -> GitHub.com -> Settings (top right under your pfp)  -> SSH and GPG keys (left) -> New SSH key -> give any title -> copy contents in key -> Add SSH Key  (please login again when asked) 
 
 3) Copy following files from [https://github.com/ac2152023/dvcrepo](https://github.com/ac2152023/dvcrepo) to your private repo
