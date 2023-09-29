@@ -8,8 +8,8 @@ echo "Container is running!!!"
 #gcloud config set project $GCP_PROJECT
 
 
-git config --global user.name "rashmibanthia"
-git config --global user.email "rjain29@gmail.com"
+git config --global user.name "yourusername"
+git config --global user.email "youremail@gmail.com"
 
 #/bin/bash
 pipenv shell
