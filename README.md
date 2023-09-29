@@ -49,7 +49,7 @@ docker-entrypoint.sh
 docker-shell.sh
 .gitignore
 
-4) git clone git@github.com:rashmibanthia/<privaterepo>.git
+4) `git clone git@github.com:rashmibanthia/<privaterepo>.git`
 
 5) Upload your secrets to secrets folder , check entries in docker-entrypoint.sh, docker-shell.sh 
 
