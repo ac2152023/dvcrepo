@@ -41,13 +41,14 @@ sudo docker run hello-world
   Go to -> GitHub.com -> Settings (top right under your pfp)  -> SSH and GPG keys (left) -> New SSH key -> give any title -> copy contents in key -> Add SSH Key  (please login again when asked) 
 
 3) Copy following files from [https://github.com/ac2152023/dvcrepo](https://github.com/ac2152023/dvcrepo) to your private repo
-
+```
 Dockerfile
 Pipfile
 Pipfile.lock
 docker-entrypoint.sh
 docker-shell.sh
 .gitignore
+```
 
 4) `git clone git@github.com:rashmibanthia/<privaterepo>.git`
 
