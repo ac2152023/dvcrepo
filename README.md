@@ -74,3 +74,6 @@ git push --atomic origin main dataset_v1
 🎉🎉🎉
 You should see tagged dataset on your private repo and also dvc_store on google cloud bucket. 
 
+--- 
+
+Anothe way to do DVC - https://dvc.org/doc/user-guide/data-management/importing-external-data  (I haven’t compared the differences)
